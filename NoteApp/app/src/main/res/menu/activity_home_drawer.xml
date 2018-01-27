@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/filter"
+            android:title="Filter"
+            android:checkable="true"
+            android:icon="@android:drawable/ic_menu_close_clear_cancel" />
+        <item
+            android:id="@+id/hearted"
+            android:title="Hearted"
+            android:checkable="true"
+            android:icon="@drawable/ic_done_black_24dp" />
+
+        <item
+            android:id="@+id/favourite"
+            android:title="Favourite"
+            android:checkable="true"
+            android:icon="@drawable/ic_done_black_24dp"/>
+
+        <item
+            android:id="@+id/poem"
+            android:title="Poem"
+            android:checkable="true"
+            android:icon="@drawable/ic_done_black_24dp"/>
+
+        <item
+            android:id="@+id/story"
+            android:title="Story"
+            android:checkable="true"
+            android:icon="@drawable/ic_done_black_24dp"/>
+    </group>
+
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notely</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="notely">Notely</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="undo">Undo</string>
+    <string name="delete">DELETE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
